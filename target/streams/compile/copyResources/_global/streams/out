@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/apple/Brian/Final Term/software-products-ui/conf/logback.xml,/Users/apple/Brian/Final Term/software-products-ui/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/apple/Brian/Final Term/software-products-ui/conf/messages,/Users/apple/Brian/Final Term/software-products-ui/target/scala-2.13/classes/messages)
+[debug] 	(/Users/apple/Brian/Final Term/software-products-ui/conf/ebean.properties,/Users/apple/Brian/Final Term/software-products-ui/target/scala-2.13/classes/ebean.properties)
+[debug] 	(/Users/apple/Brian/Final Term/software-products-ui/conf/application.conf,/Users/apple/Brian/Final Term/software-products-ui/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/apple/Brian/Final Term/software-products-ui/conf/routes,/Users/apple/Brian/Final Term/software-products-ui/target/scala-2.13/classes/routes)
+[debug] 	(/Users/apple/Brian/Final Term/software-products-ui/conf/evolutions/default/1.sql,/Users/apple/Brian/Final Term/software-products-ui/target/scala-2.13/classes/evolutions/default/1.sql)

@@ -1,0 +1,5 @@
+# Messages
+
+software.list.title={0,choice,0#No computers|1#One computer|1<{0,number,integer} software products} found
+
+

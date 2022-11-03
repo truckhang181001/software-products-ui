@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(all {file:/Users/apple/Brian/Final%20Term/software-products-ui/}software-products-ui_2813/products {file:/Users/apple/Brian/Final%20Term/software-products-ui/}software-products-ui_2813/test:products, None, None)[0m
+[0m[[0m[31merror[0m] [0m[0mExpected project ID[0m
+[0m[[0m[31merror[0m] [0m[0mall {file:/Users/apple/Brian/Final%20Term/software-products-ui/}software-products-ui_2813/products {file:/Users/apple/Brian/Final%20Term/software-products-ui/}software-products-ui_2813/test:products[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                         ^[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m
